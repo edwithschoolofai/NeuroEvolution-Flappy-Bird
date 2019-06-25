@@ -1,6 +1,8 @@
 # Flappy Bird: Human vs NEAT vs MLP
 The goal of the project is to apply NEAT to evolve the network architecture of Deep Neural Networks for improving their performance on a given classification task, in this case the game Flappy Bird, the goal is to determine if for a given input the bird must jump or no to avoid hitting the pipes.
+이 프로젝트의 목표는 NEAT를 적용하여 주어진 분류 작업의 성능 향상을 위한 딥 신경망 네트워크 구조를 발달하는 것입니다. Flappy Bird 게임에서 주 목적은 주어진 입력값에 대해서 새가 배관에 부딪히는 것을 피하기 위해 뛰어야할지를 결정하는 것입니다.     
 This repository contains a Jupyter Notebook where is possible to compare a Human, a Neat implementation and a multilayer perceptron playing Flappy Bird. 
+이 리포지토리는 사람, NEAT 구현, 그리고 다계층 퍼셉트론이 Flappy Bird 게임하는 것을 비교할 수 있는 주피터 노트북이 포함되어 있습니다. 
 
 <p align="center">
  <img src="https://github.com/ikergarcia1996/Flappy-Bird-NEAT-vs-DEEP/blob/master/DemoImages/ComparisonPlaying.gif?raw=true" alt="INPUT" />
@@ -10,6 +12,7 @@ This repository contains a Jupyter Notebook where is possible to compare a Human
 ## Input 입력값
 
 For both, neuroevolution algorithm and multilayer perceptron the input is the same:
+신경 진화 알고리즘과 다계층 퍼셉트론을 위한 입력값은 동일합니다. 
  
     1) Distance in the X axis from the bird to the next pipe.
     2) Distance in the Y axis form the bird to the lowest point of the pipe in the top.
