@@ -1,4 +1,4 @@
-# Flappy Bird: 인간 vs 확장 토폴로지 신경 진화(NEAT) vs 다층 퍼셉트론(MLP)
+# Flappy Bird: 인간 vs NEAT vs 다층 퍼셉트론(MLP)
 이 프로젝트의 목표는 NEAT를 적용하여 주어진 분류 작업의 성능 향상을 위한 딥 신경망 네트워크 구조를 발달하는 것입니다. Flappy Bird 게임의 주목적은 주어진 입력값에 대해서 새가 배관에 부딪히는 걸 피하기 위해 점프할지를 결정하는 것입니다. 이 레포지토리에는 인간, NEAT, 그리고 다층 퍼셉트론이 Flappy Bird 게임하는 것을 비교할 수 있는 주피터 노트북이 포함되어 있습니다. 
 
 <p align="center">
@@ -42,7 +42,7 @@ Gonzalo Pierola - Guamedo
 그리고 "README.md"에 명시되어 있는 파이썬 라이브러리를 "Jupyter Notebook" 폴더에 설치해야 합니다. 
 
 ## 문서화 자료
-각 release에 대한 문서화 자료는 [releases section](https://github.com/ikergarcia1996/Flappy-Bird-NEAT-vs-DEEP/releases/)에서 찾을 수 있습니다. 
+각 릴리즈에 대한 문서화 자료는 [릴리즈 섹션](https://github.com/ikergarcia1996/Flappy-Bird-NEAT-vs-DEEP/releases/)에서 찾을 수 있습니다. 
 
 ## Flappy Bird 게임
 이 프로젝트의 Flappy Bird 게임은 다음 코드를 바탕으로 구현되었습니다. 
