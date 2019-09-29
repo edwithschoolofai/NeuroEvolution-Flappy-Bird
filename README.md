@@ -1,5 +1,5 @@
 # Flappy Bird: 인간 vs NEAT vs 다층 퍼셉트론(MLP)
-이 프로젝트의 목표는 NEAT를 적용하여 주어진 분류 작업의 성능 향상을 위한 딥 신경망 네트워크 구조를 발전시키는 것입니다. Flappy Bird 게임의 주 목적은 입력값이 주어졌을 때 새가 배관에 부딪히지 않기 위해 점프할지 여부를 결정하는 것입니다. 이 저장소에는 사람, NEAT, 그리고 다층 퍼셉트론의 Flappy Bird 게임 실행을 비교할 수 있는 주피터 노트북이 포함되어 있습니다. 
+이 프로젝트의 목표는 NEAT를 적용하여 주어진 분류 작업의 성능 향상을 위한 심층 신경망 네트워크 구조를 발전시키는 것입니다. Flappy Bird 게임의 주 목적은 입력값이 주어졌을 때 새가 배관에 부딪히지 않기 위해 점프할지 여부를 결정하는 것입니다. 이 저장소에는 사람, NEAT, 그리고 다층 퍼셉트론의 Flappy Bird 게임 실행을 비교할 수 있는 주피터 노트북이 포함되어 있습니다. 
 
 <p align="center">
  <img src="https://github.com/ikergarcia1996/Flappy-Bird-NEAT-vs-DEEP/blob/master/DemoImages/ComparisonPlaying.gif?raw=true" alt="INPUT" />
